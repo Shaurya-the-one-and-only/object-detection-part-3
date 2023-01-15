@@ -1,0 +1,56 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 10px 10px 10px goldenrod;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body
+{
+    background-size:cover;
+    background-position: center;
+}
+
+canvas
+{
+    border:2px solid white;
+    border-radius: 10px;
+    margin-top: 130px;
+    box-shadow: 5px 5px 5px white;
+    margin-left: 270px;
+}
+#number_of_objects
+{
+    font-size: 18px;
+}
+
+#objectname
+{
+    color: rgb(244, 189, 107);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+input
+{
+    size: 50px;
+}
+
+#start
+{
+    size: 50px;
+    background-color: rgb(238, 197, 92);
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+
+
